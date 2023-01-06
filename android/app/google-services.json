@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383096819553",
+    "project_id": "uniformapp-project",
+    "storage_bucket": "uniformapp-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383096819553:android:69ba4ca97f38d7b679bf20",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383096819553-mvpm5k90a7igbu8uoqtf41tjdc7754ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_commerce",
+            "certificate_hash": "6a44132a20d836c34bc306e75bc0441c585bb5fc"
+          }
+        },
+        {
+          "client_id": "383096819553-e3kf371nacsh45fvdae85ok8d0fb6kke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Y34MYpJzmkrQAmWKl-2ZaMiERdS1O68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383096819553-e3kf371nacsh45fvdae85ok8d0fb6kke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
